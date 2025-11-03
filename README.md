@@ -1,16 +1,28 @@
-# notes_app_flutter
+# 🗒️ Flutter Notes App (SQFlite + Flutter Quill)
 
-A new Flutter project.
+A simple **Flutter Notes App** built for **practice and exploring Flutter concepts** — including **local database (SQFlite)** and a **rich text editor (Flutter Quill)**.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+<div align="center">
+  <img src="screenshots/home.png" width="45%" />
+  <img src="screenshots/editor.png" width="45%" />
+</div>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Features
+
+- 🧠 Create, edit, and delete notes (saved locally with SQFlite)
+- ✍️ Rich text editing using **Flutter Quill**, including:
+  - Undo / Redo  
+  - Bold / Italic / Underline  
+  - Font size & color  
+  - Text alignment
+  - Numbered & Bulleted lists  
+  - Quote, Indent, and more
+- 🧩 Clean and simple UI (Material Design)
+
+---
