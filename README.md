@@ -7,8 +7,8 @@ A simple **Flutter Notes App** built for **practice and exploring Flutter concep
 ## 📱 Screenshots
 
 <div align="center">
-  <img src="screenshots/home.png" width="45%" />
-  <img src="screenshots/editor.png" width="45%" />
+  <img src="screenshots/home.jpg" width="45%" />
+  <img src="screenshots/editor.jpg" width="45%" />
 </div>
 
 ---
